@@ -1,0 +1,2 @@
+# gittrain
+setup git
